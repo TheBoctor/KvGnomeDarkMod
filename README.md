@@ -15,5 +15,6 @@ License is GPLv3 to conform to the license used by Kvantum.
 
 Screenshots (Click to enlarge):
 
-<img height="424" alt="image" src="https://github.com/user-attachments/assets/1e6e249d-46f0-4093-8b1d-6fb23ef0e6df" />
-<img width="320" alt="image" src="https://github.com/user-attachments/assets/5da6c9e1-8eb9-4933-8a2f-a25ab1e1d1d2" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/1e6e249d-46f0-4093-8b1d-6fb23ef0e6df" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/5da6c9e1-8eb9-4933-8a2f-a25ab1e1d1d2" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/7e2c15d8-b809-4bfd-92c8-fe4805ccd199" />
