@@ -9,7 +9,7 @@ Deps:
 
 The Plasma theme SVGs are heavily edited from vanilla Breeze ones (which are the work of the KDE Visual Design Group) by heavily referencing the SVGs from the KvGnomeDark theme by Tsu Jan, which is included in [Kvantum](https://github.com/tsujan/Kvantum).
 
-By combining these with the default/Adwaita dark theme in GTK 3 and 4, and a matching Klassy config for window decorations, you can get a reasonably skeuomorphic desktop, similar to what was in vogue during 2008-2012.
+By combining these with the default/Adwaita dark theme in GTK 3 and 4, and a matching Klassy config for window decorations, you can get a reasonably "3D" looking desktop, similar to what was in vogue during 2008-2012.
 
 License is GPLv3 to conform to the license used by Kvantum.
 
