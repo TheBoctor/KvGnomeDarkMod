@@ -12,8 +12,8 @@ toolbar_interior_spacing=2
 spread_progressbar=true
 spread_menuitems=true
 composite=true
-menu_shadow_depth=6
-tooltip_shadow_depth=6
+menu_shadow_depth=0
+tooltip_shadow_depth=0
 scroll_width=12
 scroll_arrows=false
 scroll_min_extent=50
@@ -73,7 +73,7 @@ drag_from_buttons=false
 layout_margin=6
 menu_blur_radius=0
 opaque=kaffeine,kmplayer,subtitlecomposer,kdenlive,vlc,smplayer,smplayer2,avidemux,avidemux2_qt4,avidemux3_qt4,avidemux3_qt5,kamoso,QtCreator,VirtualBox,VirtualBoxVM,trojita,dragon,digikam,lyx
-shadowless_popup=false
+shadowless_popup=true
 tooltip_blur_radius=0
 
 [GeneralColors]
@@ -104,7 +104,7 @@ progress.indicator.text.color=white
 
 [Hacks]
 transparent_ktitle_label=true
-transparent_dolphin_view=false
+transparent_dolphin_view=true
 transparent_pcmanfm_sidepane=false
 blur_translucent=false
 transparent_menutitle=false
@@ -442,12 +442,12 @@ text.normal.color=white
 text.focus.color=white
 text.margin.top=2
 text.margin.bottom=2
-text.margin.left=15
-text.margin.right=5
-frame.top=2
-frame.bottom=2
-frame.left=2
-frame.right=2
+text.margin.left=6
+text.margin.right=6
+frame.top=0
+frame.bottom=0
+frame.left=1
+frame.right=1
 text.shadow=false
 min_width=0
 min_height=0
