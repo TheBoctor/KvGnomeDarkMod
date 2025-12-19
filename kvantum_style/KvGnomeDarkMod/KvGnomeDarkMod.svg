@@ -20,9 +20,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="15.397366"
-     inkscape:cx="225.46064"
-     inkscape:cy="693.75504"
+     inkscape:zoom="9.1333971"
+     inkscape:cx="378.33677"
+     inkscape:cy="865.39542"
      inkscape:window-width="1920"
      inkscape:window-height="1132"
      inkscape:window-x="0"
@@ -4810,12 +4810,14 @@
      transform="translate(-8,384)">
     <path
        style="fill:#0a0a0a"
-       d="m 384,472 h -6 v 6 h 6 z"
-       id="path282" />
+       d="m 384,472 c -3.14953,1.08113 -4.91822,2.84857 -6,6 h 6 z"
+       id="path282"
+       sodipodi:nodetypes="cccc" />
     <path
        style="fill:#454547"
-       d="m 384,472 h -6 v 6 h 1 v -5 h 5 z"
-       id="path283" />
+       d="m 384,472 c -4.185,0.0469 -5.95306,1.815 -6,6 h 1 c 0.0822,-3.44401 1.55523,-4.91777 5,-5 z"
+       id="path283"
+       sodipodi:nodetypes="ccccc" />
   </g>
   <use
      width="100%"
